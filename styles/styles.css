@@ -134,3 +134,18 @@ nav a:hover {
     }
 }
 
+/* ___________________________________Estilos para las imagenes de cada seccion___________________________________________________*/
+
+/* Estilo para el contenedor centrado */
+.centered-image {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+}
+
+/* Estilo para la imagen */
+.centered-image img {
+    max-width: 100%;
+    max-height: 100%; 
+}
